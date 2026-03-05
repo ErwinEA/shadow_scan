@@ -1,0 +1,3190 @@
+{
+  "00000A": {
+    "country": "JP",
+    "vendor": "OMRON TATEISI ELECTRONICS CO."
+  },
+  "00000D": {
+    "country": "",
+    "vendor": "FIBRONICS LTD."
+  },
+  "000018": {
+    "country": "US",
+    "vendor": "WEBSTER COMPUTER CORPORATION"
+  },
+  "000026": {
+    "country": "JP",
+    "vendor": "SHA-KEN CO., LTD."
+  },
+  "00002B": {
+    "country": "TW",
+    "vendor": "CRISP AUTOMATION, INC"
+  },
+  "000041": {
+    "country": "CA",
+    "vendor": "ICE CORPORATION"
+  },
+  "000042": {
+    "country": "US",
+    "vendor": "METIER MANAGEMENT SYSTEMS LTD."
+  },
+  "000043": {
+    "country": "US",
+    "vendor": "MICRO TECHNOLOGY"
+  },
+  "00004A": {
+    "country": "US",
+    "vendor": "ADC CODENOLL TECHNOLOGY CORP."
+  },
+  "00004B": {
+    "country": "",
+    "vendor": "ICL DATA OY"
+  },
+  "00004E": {
+    "country": "NZ",
+    "vendor": "AMPEX CORPORATION"
+  },
+  "000050": {
+    "country": "US",
+    "vendor": "RADISYS CORPORATION"
+  },
+  "000055": {
+    "country": "",
+    "vendor": "COMMISSARIAT A L`ENERGIE ATOM."
+  },
+  "000057": {
+    "country": "",
+    "vendor": "SCITEX CORPORATION LTD."
+  },
+  "00005A": {
+    "country": "",
+    "vendor": "SysKonnect GmbH"
+  },
+  "000061": {
+    "country": "US",
+    "vendor": "GATEWAY COMMUNICATIONS"
+  },
+  "00006D": {
+    "country": "US",
+    "vendor": "CRAY COMMUNICATIONS, LTD."
+  },
+  "000071": {
+    "country": "US",
+    "vendor": "ADRA SYSTEMS INC."
+  },
+  "000077": {
+    "country": "US",
+    "vendor": "INTERPHASE CORPORATION"
+  },
+  "00007A": {
+    "country": "JP",
+    "vendor": "DANA COMPUTER INC."
+  },
+  "000082": {
+    "country": "",
+    "vendor": "LECTRA SYSTEMES SA"
+  },
+  "00008F": {
+    "country": "US",
+    "vendor": "Raytheon"
+  },
+  "000093": {
+    "country": "US",
+    "vendor": "PROTEON INC."
+  },
+  "00009A": {
+    "country": "",
+    "vendor": "RC COMPUTER A/S"
+  },
+  "0000A3": {
+    "country": "US",
+    "vendor": "NETWORK APPLICATION TECHNOLOGY"
+  },
+  "0000A7": {
+    "country": "GB",
+    "vendor": "NETWORK COMPUTING DEVICES INC."
+  },
+  "0000A9": {
+    "country": "US",
+    "vendor": "NETWORK SYSTEMS CORP."
+  },
+  "0000B0": {
+    "country": "",
+    "vendor": "RND-RAD NETWORK DEVICES"
+  },
+  "0000BD": {
+    "country": "JP",
+    "vendor": "RYOSEI, Ltd."
+  },
+  "0000C4": {
+    "country": "US",
+    "vendor": "WATERS DIV. OF MILLIPORE"
+  },
+  "0000CC": {
+    "country": "",
+    "vendor": "DENSAN CO., LTD."
+  },
+  "0000CF": {
+    "country": "",
+    "vendor": "HAYES MICROCOMPUTER PRODUCTS"
+  },
+  "0000D0": {
+    "country": "",
+    "vendor": "DEVELCON ELECTRONICS LTD."
+  },
+  "0000D6": {
+    "country": "US",
+    "vendor": "PUNCH LINE HOLDING"
+  },
+  "0000E8": {
+    "country": "US",
+    "vendor": "ACCTON TECHNOLOGY CORP."
+  },
+  "0000EF": {
+    "country": "US",
+    "vendor": "KTI"
+  },
+  "00011E": {
+    "country": "TW",
+    "vendor": "Precidia Technologies, Inc."
+  },
+  "00012E": {
+    "country": "",
+    "vendor": "PC Partner Ltd."
+  },
+  "000132": {
+    "country": "JP",
+    "vendor": "Dranetz - BMI"
+  },
+  "00013A": {
+    "country": "",
+    "vendor": "SHELCAD COMMUNICATIONS, LTD."
+  },
+  "00013E": {
+    "country": "",
+    "vendor": "Ascom Tateco AB"
+  },
+  "00013F": {
+    "country": "US",
+    "vendor": "Neighbor World Co., Ltd."
+  },
+  "000140": {
+    "country": "KR",
+    "vendor": "Sendtek Corporation"
+  },
+  "000146": {
+    "country": "US",
+    "vendor": "Tesco Controls, Inc."
+  },
+  "000150": {
+    "country": "",
+    "vendor": "GILAT COMMUNICATIONS, LTD."
+  },
+  "000151": {
+    "country": "US",
+    "vendor": "Ensemble Communications"
+  },
+  "000159": {
+    "country": "KR",
+    "vendor": "S1 Corporation"
+  },
+  "000166": {
+    "country": "JP",
+    "vendor": "TC GROUP A/S"
+  },
+  "00016D": {
+    "country": "US",
+    "vendor": "CarrierComm Inc."
+  },
+  "00016F": {
+    "country": "KR",
+    "vendor": "Inkel Corp."
+  },
+  "000172": {
+    "country": "",
+    "vendor": "TechnoLand Co., LTD."
+  },
+  "000173": {
+    "country": "US",
+    "vendor": "AMCC"
+  },
+  "000179": {
+    "country": "KR",
+    "vendor": "WIRELESS TECHNOLOGY, INC."
+  },
+  "00017F": {
+    "country": "TW",
+    "vendor": "Experience Music Project"
+  },
+  "000189": {
+    "country": "US",
+    "vendor": "Refraction Technology, Inc."
+  },
+  "00018A": {
+    "country": "",
+    "vendor": "ROI COMPUTER AG"
+  },
+  "00018C": {
+    "country": "US",
+    "vendor": "Mega Vision"
+  },
+  "00018E": {
+    "country": "",
+    "vendor": "Logitec Corporation"
+  },
+  "000192": {
+    "country": "US",
+    "vendor": "Texas Digital Systems"
+  },
+  "00019E": {
+    "country": "US",
+    "vendor": "ESS Technology, Inc."
+  },
+  "0001A0": {
+    "country": "US",
+    "vendor": "Infinilink Corporation"
+  },
+  "0001A6": {
+    "country": "",
+    "vendor": "Scientific-Atlanta Arcodan A/S"
+  },
+  "0001A8": {
+    "country": "US",
+    "vendor": "Welltech Computer Co., Ltd."
+  },
+  "0001B4": {
+    "country": "DE",
+    "vendor": "Wayport, Inc."
+  },
+  "0001B6": {
+    "country": "DE",
+    "vendor": "SAEJIN T&M Co., Ltd."
+  },
+  "0001B7": {
+    "country": "GB",
+    "vendor": "Centos, Inc."
+  },
+  "0001BC": {
+    "country": "",
+    "vendor": "Brains Corporation"
+  },
+  "0001C0": {
+    "country": "",
+    "vendor": "CompuLab, Ltd."
+  },
+  "0001C5": {
+    "country": "US",
+    "vendor": "Simpler Networks"
+  },
+  "0001CE": {
+    "country": "GB",
+    "vendor": "Custom Micro Products, Ltd.02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "0001D1": {
+    "country": "KR",
+    "vendor": "CoNet Communications, Inc."
+  },
+  "0001D3": {
+    "country": "US",
+    "vendor": "PAXCOMM, Inc."
+  },
+  "0001DF": {
+    "country": "KR",
+    "vendor": "ISDN Communications, Ltd."
+  },
+  "0001E0": {
+    "country": "KR",
+    "vendor": "Fast Systems, Inc."
+  },
+  "0001F6": {
+    "country": "",
+    "vendor": "Association of Musical Electronics Industry"
+  },
+  "0001F9": {
+    "country": "TW",
+    "vendor": "TeraGlobal Communications Corp."
+  },
+  "0001FD": {
+    "country": "US",
+    "vendor": "Digital Voice Systems, Inc."
+  },
+  "000202": {
+    "country": "GB",
+    "vendor": "Amino Communications, Ltd."
+  },
+  "000205": {
+    "country": "TW",
+    "vendor": "Hitachi Denshi, Ltd."
+  },
+  "000206": {
+    "country": "",
+    "vendor": "Telital R&D Denmark A/S"
+  },
+  "00020A": {
+    "country": "",
+    "vendor": "Gefran Spa"
+  },
+  "000218": {
+    "country": "KR",
+    "vendor": "Advanced Scientific Corp"
+  },
+  "000219": {
+    "country": "KR",
+    "vendor": "Paralon Technologies"
+  },
+  "00021B": {
+    "country": "IL",
+    "vendor": "Kollmorgen-Servotronix"
+  },
+  "000226": {
+    "country": "US",
+    "vendor": "XESystems, Inc."
+  },
+  "000227": {
+    "country": "DE",
+    "vendor": "ESD Electronic System Design GmbH"
+  },
+  "000228": {
+    "country": "",
+    "vendor": "Necsom, Ltd."
+  },
+  "00022B": {
+    "country": "TW",
+    "vendor": "SAXA, Inc."
+  },
+  "00022F": {
+    "country": "",
+    "vendor": "P-Cube, Ltd."
+  },
+  "000230": {
+    "country": "",
+    "vendor": "Intersoft Electronics"
+  },
+  "000232": {
+    "country": "US",
+    "vendor": "Avision, Inc."
+  },
+  "00023C": {
+    "country": "US",
+    "vendor": "Creative Technology, Ltd."
+  },
+  "000241": {
+    "country": "KR",
+    "vendor": "Amer.com"
+  },
+  "000248": {
+    "country": "",
+    "vendor": "Pilz GmbH & Co."
+  },
+  "000249": {
+    "country": "KR",
+    "vendor": "Aviv Infocom Co, Ltd."
+  },
+  "00024C": {
+    "country": "US",
+    "vendor": "SiByte, Inc."
+  },
+  "00024F": {
+    "country": "IT",
+    "vendor": "IPM Datacom S.R.L."
+  },
+  "000250": {
+    "country": "US",
+    "vendor": "Geyser Networks, Inc."
+  },
+  "000254": {
+    "country": "US",
+    "vendor": "WorldGate"
+  },
+  "00025D": {
+    "country": "US",
+    "vendor": "Calix Networks"
+  },
+  "00026B": {
+    "country": "KR",
+    "vendor": "BCM Computers Co., Ltd."
+  },
+  "000282": {
+    "country": "US",
+    "vendor": "ViaClix, Inc."
+  },
+  "00028B": {
+    "country": "",
+    "vendor": "VDSL Systems OY"
+  },
+  "00028C": {
+    "country": "US",
+    "vendor": "Micrel-Synergy Semiconductor"
+  },
+  "000290": {
+    "country": "US",
+    "vendor": "Woorigisool, Inc."
+  },
+  "000293": {
+    "country": "US",
+    "vendor": "Solid Data Systems"
+  },
+  "000296": {
+    "country": "US",
+    "vendor": "Lectron Co,. Ltd."
+  },
+  "00029F": {
+    "country": "US",
+    "vendor": "L-3 Communication Aviation Recorders"
+  },
+  "0002AF": {
+    "country": "CH",
+    "vendor": "TeleCruz Technology, Inc."
+  },
+  "0002B0": {
+    "country": "KR",
+    "vendor": "Hokubu Communication & Industrial Co., Ltd."
+  },
+  "0002C2": {
+    "country": "US",
+    "vendor": "Net Vision Telecom"
+  },
+  "0002C8": {
+    "country": "TW",
+    "vendor": "Technocom Communications Technology (pte) Ltd"
+  },
+  "0002CD": {
+    "country": "",
+    "vendor": "TeleDream, Inc."
+  },
+  "0002CE": {
+    "country": "US",
+    "vendor": "FoxJet, Inc.02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "0002D0": {
+    "country": "US",
+    "vendor": "Comdial Corporation"
+  },
+  "0002D1": {
+    "country": "",
+    "vendor": "Vivotek, Inc."
+  },
+  "0002D9": {
+    "country": "US",
+    "vendor": "Reliable Controls"
+  },
+  "0002DF": {
+    "country": "GB",
+    "vendor": "Net Com Systems, Inc."
+  },
+  "0002E5": {
+    "country": "GB",
+    "vendor": "Timeware Ltd."
+  },
+  "0002E6": {
+    "country": "KR",
+    "vendor": "Gould Instrument Systems, Inc."
+  },
+  "0002EC": {
+    "country": "US",
+    "vendor": "Maschoff Design Engineering"
+  },
+  "0002F6": {
+    "country": "TW",
+    "vendor": "Equipe Communications"
+  },
+  "0002FA": {
+    "country": "JP",
+    "vendor": "DX Antenna Co., Ltd."
+  },
+  "000308": {
+    "country": "KR",
+    "vendor": "AM Communications, Inc."
+  },
+  "000316": {
+    "country": "JP",
+    "vendor": "Nobell Communications, Inc."
+  },
+  "00031C": {
+    "country": "",
+    "vendor": "Svenska Hardvarufabriken AB"
+  },
+  "00031D": {
+    "country": "",
+    "vendor": "Taiwan Commate Computer, Inc."
+  },
+  "00031F": {
+    "country": "",
+    "vendor": "Condev Ltd."
+  },
+  "000325": {
+    "country": "",
+    "vendor": "Arima Computer Corp."
+  },
+  "000326": {
+    "country": "",
+    "vendor": "Iwasaki Information Systems Co., Ltd."
+  },
+  "000333": {
+    "country": "",
+    "vendor": "Digitel Co., Ltd."
+  },
+  "000335": {
+    "country": "KR",
+    "vendor": "Mirae Technology02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "000337": {
+    "country": "KR",
+    "vendor": "Vaone, Inc."
+  },
+  "000338": {
+    "country": "US",
+    "vendor": "Oak Technology"
+  },
+  "00033B": {
+    "country": "TW",
+    "vendor": "TAMI Tech Co., Ltd."
+  },
+  "00033D": {
+    "country": "US",
+    "vendor": "ILSHin Lab"
+  },
+  "00033E": {
+    "country": "JP",
+    "vendor": "Tateyama System Laboratory Co., Ltd."
+  },
+  "00033F": {
+    "country": "",
+    "vendor": "BigBand Networks, Ltd."
+  },
+  "000343": {
+    "country": "",
+    "vendor": "Martin Professional A/S"
+  },
+  "000348": {
+    "country": "CA",
+    "vendor": "Norscan Instruments, Ltd."
+  },
+  "00034E": {
+    "country": "",
+    "vendor": "Pos Data Company, Ltd."
+  },
+  "000360": {
+    "country": "GB",
+    "vendor": "PAC Interactive Technology, Inc."
+  },
+  "000362": {
+    "country": "KR",
+    "vendor": "Vodtel Communications, Inc."
+  },
+  "000367": {
+    "country": "US",
+    "vendor": "Jasmine Networks, Inc."
+  },
+  "000368": {
+    "country": "CA",
+    "vendor": "Embedone Co., Ltd."
+  },
+  "000369": {
+    "country": "JP",
+    "vendor": "Nippon Antenna Co., Ltd."
+  },
+  "00036B": {
+    "country": "JP",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "00036D": {
+    "country": "",
+    "vendor": "Runtop, Inc."
+  },
+  "00036E": {
+    "country": "CN",
+    "vendor": "Nicon Systems (Pty) Limited"
+  },
+  "000370": {
+    "country": "GB",
+    "vendor": "NXTV, Inc."
+  },
+  "000375": {
+    "country": "US",
+    "vendor": "NetMedia, Inc."
+  },
+  "000377": {
+    "country": "TW",
+    "vendor": "Gigabit Wireless"
+  },
+  "00037A": {
+    "country": "",
+    "vendor": "Taiyo Yuden Co., Ltd."
+  },
+  "00037B": {
+    "country": "",
+    "vendor": "IDEC IZUMI Corporation"
+  },
+  "00037E": {
+    "country": "US",
+    "vendor": "PORTech Communications, Inc."
+  },
+  "000380": {
+    "country": "",
+    "vendor": "SSH Communications Security Corp."
+  },
+  "000382": {
+    "country": "",
+    "vendor": "A-One Co., Ltd."
+  },
+  "00038A": {
+    "country": "TW",
+    "vendor": "America Online, Inc."
+  },
+  "00038E": {
+    "country": "KR",
+    "vendor": "Atoga Systems, Inc."
+  },
+  "000399": {
+    "country": "IL",
+    "vendor": "Dongju Informations & Communications Co., Ltd."
+  },
+  "0003A0": {
+    "country": "TW",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "0003A7": {
+    "country": "KR",
+    "vendor": "Unixtar Technology, Inc."
+  },
+  "0003BF": {
+    "country": "US",
+    "vendor": "Centerpoint Broadband Technologies, Inc."
+  },
+  "0003C0": {
+    "country": "TW",
+    "vendor": "RFTNC Co., Ltd."
+  },
+  "0003C3": {
+    "country": "",
+    "vendor": "Micronik Multimedia"
+  },
+  "0003C8": {
+    "country": "",
+    "vendor": "CML Emergency Services"
+  },
+  "0003CF": {
+    "country": "KR",
+    "vendor": "Muxcom, Inc."
+  },
+  "0003D9": {
+    "country": "",
+    "vendor": "Secheron SA02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "0003E1": {
+    "country": "JP",
+    "vendor": "Winmate Communication, Inc."
+  },
+  "0003E8": {
+    "country": "US",
+    "vendor": "Wavesight Limited"
+  },
+  "0003EB": {
+    "country": "KR",
+    "vendor": "Atrica"
+  },
+  "0003F1": {
+    "country": "US",
+    "vendor": "Cicada Semiconductor, Inc."
+  },
+  "0003F3": {
+    "country": "US",
+    "vendor": "Dazzle Multimedia, Inc."
+  },
+  "0003F4": {
+    "country": "US",
+    "vendor": "NetBurner"
+  },
+  "0003F8": {
+    "country": "US",
+    "vendor": "SanCastle Technologies, Inc."
+  },
+  "0003FC": {
+    "country": "",
+    "vendor": "Intertex Data AB"
+  },
+  "000408": {
+    "country": "US",
+    "vendor": "Sanko Electronics Co., Ltd."
+  },
+  "00040F": {
+    "country": "KR",
+    "vendor": "Asus Network Technologies, Inc."
+  },
+  "000415": {
+    "country": "",
+    "vendor": "Rasteme Systems Co., Ltd."
+  },
+  "000416": {
+    "country": "",
+    "vendor": "Parks S/A Comunicacoes Digitais"
+  },
+  "00041D": {
+    "country": "DE",
+    "vendor": "Corega of America"
+  },
+  "00042C": {
+    "country": "KR",
+    "vendor": "Minet, Inc."
+  },
+  "00042F": {
+    "country": "US",
+    "vendor": "International Communications Products, Inc."
+  },
+  "000434": {
+    "country": "US",
+    "vendor": "Accelent Systems, Inc."
+  },
+  "00043B": {
+    "country": "US",
+    "vendor": "Lava Computer Mfg., Inc."
+  },
+  "00043D": {
+    "country": "",
+    "vendor": "INDEL AG"
+  },
+  "000441": {
+    "country": "US",
+    "vendor": "Half Dome Systems, Inc."
+  },
+  "000443": {
+    "country": "US",
+    "vendor": "Agilent Technologies, Inc."
+  },
+  "000444": {
+    "country": "TW",
+    "vendor": "Western Multiplex Corporation"
+  },
+  "00045E": {
+    "country": "",
+    "vendor": "PolyTrax Information Technology AG"
+  },
+  "000460": {
+    "country": "US",
+    "vendor": "Knilink Technology, Inc."
+  },
+  "000461": {
+    "country": "US",
+    "vendor": "EPOX Computer Co., Ltd."
+  },
+  "000465": {
+    "country": "",
+    "vendor": "i.s.t isdn-support technik GmbH"
+  },
+  "000467": {
+    "country": "US",
+    "vendor": "Wuhan Research Institute of MII"
+  },
+  "00046A": {
+    "country": "US",
+    "vendor": "Navini Networks"
+  },
+  "00046C": {
+    "country": "KR",
+    "vendor": "Cyber Technology Co., Ltd."
+  },
+  "00046E": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "000478": {
+    "country": "US",
+    "vendor": "G. Star Technology Corporation"
+  },
+  "00047B": {
+    "country": "US",
+    "vendor": "Schlumberger"
+  },
+  "00047C": {
+    "country": "",
+    "vendor": "Skidata AG"
+  },
+  "000481": {
+    "country": "GB",
+    "vendor": "Econolite Control Products, Inc."
+  },
+  "000486": {
+    "country": "KR",
+    "vendor": "ITTC, University of Kansas"
+  },
+  "000488": {
+    "country": "US",
+    "vendor": "Eurotherm Controls"
+  },
+  "000495": {
+    "country": "IN",
+    "vendor": "Tejas Networks India Limited"
+  },
+  "000498": {
+    "country": "US",
+    "vendor": "Mahi Networks"
+  },
+  "0004A6": {
+    "country": "",
+    "vendor": "SAF Tehnika Ltd."
+  },
+  "0004A8": {
+    "country": "US",
+    "vendor": "Broadmax Technologies, Inc."
+  },
+  "0004A9": {
+    "country": "KR",
+    "vendor": "SandStream Technologies, Inc."
+  },
+  "0004B4": {
+    "country": "",
+    "vendor": "CIAC"
+  },
+  "0004BF": {
+    "country": "TW",
+    "vendor": "VersaLogic Corp."
+  },
+  "0004C2": {
+    "country": "GB",
+    "vendor": "Magnipix, Inc."
+  },
+  "0004C7": {
+    "country": "",
+    "vendor": "NetMount"
+  },
+  "0004CC": {
+    "country": "NL",
+    "vendor": "Peek Traffic B.V."
+  },
+  "0004CD": {
+    "country": "US",
+    "vendor": "Extenway Solutions Inc"
+  },
+  "0004D3": {
+    "country": "",
+    "vendor": "Toyokeiki Co., Ltd."
+  },
+  "0004D5": {
+    "country": "JP",
+    "vendor": "Hitachi Information & Communication Engineering, Ltd."
+  },
+  "0004D9": {
+    "country": "GB",
+    "vendor": "Titan Electronics, Inc."
+  },
+  "0004DE": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "0004E0": {
+    "country": "US",
+    "vendor": "Procket Networks"
+  },
+  "0004E4": {
+    "country": "US",
+    "vendor": "Daeryung Ind., Inc."
+  },
+  "0004EC": {
+    "country": "",
+    "vendor": "Memobox SA"
+  },
+  "0004ED": {
+    "country": "US",
+    "vendor": "Billion Electric Co., Ltd."
+  },
+  "0004F1": {
+    "country": "GB",
+    "vendor": "WhereNet"
+  },
+  "0004F5": {
+    "country": "CA",
+    "vendor": "SnowShore Networks, Inc."
+  },
+  "0004F6": {
+    "country": "US",
+    "vendor": "Amphus"
+  },
+  "0004F8": {
+    "country": "",
+    "vendor": "QUALICABLE TV Industria E Com., Ltda"
+  },
+  "0004F9": {
+    "country": "KR",
+    "vendor": "Xtera Communications, Inc."
+  },
+  "0004FB": {
+    "country": "US",
+    "vendor": "Commtech, Inc."
+  },
+  "0004FD": {
+    "country": "",
+    "vendor": "Japan Control Engineering Co., Ltd."
+  },
+  "000501": {
+    "country": "KR",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "000507": {
+    "country": "",
+    "vendor": "Fine Appliance Corp."
+  },
+  "00050A": {
+    "country": "",
+    "vendor": "ICS Spa"
+  },
+  "00050B": {
+    "country": "US",
+    "vendor": "SICOM Systems, Inc."
+  },
+  "00050D": {
+    "country": "US",
+    "vendor": "Midstream Technologies, Inc."
+  },
+  "000510": {
+    "country": "",
+    "vendor": "Infinite Shanghai Communication Terminals Ltd."
+  },
+  "000512": {
+    "country": "US",
+    "vendor": "Zebra Technologies Inc"
+  },
+  "000513": {
+    "country": "JP",
+    "vendor": "VTLinx Multimedia Systems, Inc."
+  },
+  "000517": {
+    "country": "",
+    "vendor": "Shellcomm, Inc."
+  },
+  "00051C": {
+    "country": "",
+    "vendor": "Xnet Technology Corp."
+  },
+  "00051D": {
+    "country": "CN",
+    "vendor": "Airocon, Inc."
+  },
+  "000520": {
+    "country": "CZ",
+    "vendor": "Smartronix, Inc."
+  },
+  "000526": {
+    "country": "",
+    "vendor": "IPAS GmbH"
+  },
+  "000529": {
+    "country": "JP",
+    "vendor": "Shanghai Broadan Communication Technology Co., Ltd"
+  },
+  "00052A": {
+    "country": "JP",
+    "vendor": "Ikegami Tsushinki Co., Ltd."
+  },
+  "000535": {
+    "country": "US",
+    "vendor": "Chip PC Ltd."
+  },
+  "00053F": {
+    "country": "US",
+    "vendor": "VisionTek, Inc."
+  },
+  "000547": {
+    "country": "US",
+    "vendor": "Starent Networks"
+  },
+  "00054A": {
+    "country": "GB",
+    "vendor": "Ario Data Networks, Inc."
+  },
+  "000558": {
+    "country": "US",
+    "vendor": "Synchronous, Inc."
+  },
+  "00055C": {
+    "country": "AU",
+    "vendor": "Kowa Company, Ltd."
+  },
+  "00055F": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "000562": {
+    "country": "JP",
+    "vendor": "Digital View Limited"
+  },
+  "000563": {
+    "country": "KR",
+    "vendor": "J-Works, Inc."
+  },
+  "000564": {
+    "country": "",
+    "vendor": "Tsinghua Bitway Co., Ltd."
+  },
+  "00056B": {
+    "country": "HK",
+    "vendor": "C.P. Technology Co., Ltd."
+  },
+  "00056D": {
+    "country": "",
+    "vendor": "Pacific Corporation"
+  },
+  "000574": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "000577": {
+    "country": "US",
+    "vendor": "SM Information & Communication"
+  },
+  "00057D": {
+    "country": "US",
+    "vendor": "Sun Communications, Inc."
+  },
+  "000580": {
+    "country": "GB",
+    "vendor": "FibroLAN Ltd."
+  },
+  "000583": {
+    "country": "GB",
+    "vendor": "ImageCom Limited"
+  },
+  "000584": {
+    "country": "US",
+    "vendor": "AbsoluteValue Systems, Inc."
+  },
+  "00058A": {
+    "country": "US",
+    "vendor": "Netcom Co., Ltd."
+  },
+  "00058E": {
+    "country": "CA",
+    "vendor": "Flextronics International GmbH & Co. Nfg. KG"
+  },
+  "000595": {
+    "country": "DE",
+    "vendor": "Alesis Corporation"
+  },
+  "000599": {
+    "country": "IL",
+    "vendor": "DRS Test and Energy Management or DRS-TEM"
+  },
+  "00059B": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "0005A1": {
+    "country": "US",
+    "vendor": "Zenocom"
+  },
+  "0005A2": {
+    "country": "US",
+    "vendor": "CELOX Networks"
+  },
+  "0005B2": {
+    "country": "US",
+    "vendor": "Medison Co., Ltd."
+  },
+  "0005B3": {
+    "country": "US",
+    "vendor": "Asahi-Engineering Co., Ltd."
+  },
+  "0005B4": {
+    "country": "TW",
+    "vendor": "Aceex Corporation"
+  },
+  "0005BD": {
+    "country": "",
+    "vendor": "ROAX BV"
+  },
+  "0005C1": {
+    "country": "KR",
+    "vendor": "A-Kyung Motion, Inc."
+  },
+  "0005C6": {
+    "country": "US",
+    "vendor": "Triz Communications"
+  },
+  "0005C7": {
+    "country": "",
+    "vendor": "I/F-COM A/S"
+  },
+  "0005CA": {
+    "country": "US",
+    "vendor": "Hitron Technology, Inc."
+  },
+  "0005CB": {
+    "country": "US",
+    "vendor": "ROIS Technologies, Inc."
+  },
+  "0005D4": {
+    "country": "SE",
+    "vendor": "FutureSmart Networks, Inc."
+  },
+  "0005DF": {
+    "country": "US",
+    "vendor": "Electronic Innovation, Inc."
+  },
+  "0005E1": {
+    "country": "",
+    "vendor": "Trellis Photonics, Ltd."
+  },
+  "0005E2": {
+    "country": "CA",
+    "vendor": "Creativ Network Technologies"
+  },
+  "0005EA": {
+    "country": "JP",
+    "vendor": "Rednix"
+  },
+  "0005EF": {
+    "country": "US",
+    "vendor": "ADOIR Digital Technology"
+  },
+  "0005FE": {
+    "country": "",
+    "vendor": "Traficon N.V."
+  },
+  "000601": {
+    "country": "JP",
+    "vendor": "Otanikeiki Co., Ltd."
+  },
+  "000606": {
+    "country": "US",
+    "vendor": "RapidWAN, Inc."
+  },
+  "00060B": {
+    "country": "JP",
+    "vendor": "Artesyn Embedded Technologies"
+  },
+  "00060C": {
+    "country": "ZA",
+    "vendor": "Melco Industries, Inc."
+  },
+  "00060D": {
+    "country": "KR",
+    "vendor": "Wave7 Optics"
+  },
+  "000619": {
+    "country": "US",
+    "vendor": "Connection Technology Systems"
+  },
+  "00061B": {
+    "country": "US",
+    "vendor": "Notebook Development Lab.  Lenovo Japan Ltd."
+  },
+  "000623": {
+    "country": "",
+    "vendor": "MGE UPS Systems France"
+  },
+  "00062D": {
+    "country": "CA",
+    "vendor": "TouchStar Technologies, L.L.C."
+  },
+  "000637": {
+    "country": "",
+    "vendor": "Toptrend-Meta Information (ShenZhen) Inc."
+  },
+  "00063F": {
+    "country": "US",
+    "vendor": "Everex Communications Inc."
+  },
+  "000641": {
+    "country": "CA",
+    "vendor": "ITCN"
+  },
+  "000649": {
+    "country": "KR",
+    "vendor": "3M Deutschland GmbH"
+  },
+  "000653": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "000654": {
+    "country": "",
+    "vendor": "Winpresa Building Automation Technologies GmbH"
+  },
+  "000658": {
+    "country": "",
+    "vendor": "Helmut Fischer GmbH Institut für Elektronik und"
+  },
+  "00065A": {
+    "country": "US",
+    "vendor": "Strix Systems"
+  },
+  "000669": {
+    "country": "GB",
+    "vendor": "Datasound Laboratories Ltd"
+  },
+  "00066A": {
+    "country": "TW",
+    "vendor": "InfiniCon Systems, Inc."
+  },
+  "00066B": {
+    "country": "JP",
+    "vendor": "Sysmex Corporation"
+  },
+  "00066C": {
+    "country": "CN",
+    "vendor": "Robinson Corporation"
+  },
+  "000671": {
+    "country": "",
+    "vendor": "Softing AG"
+  },
+  "000672": {
+    "country": "US",
+    "vendor": "Netezza"
+  },
+  "000679": {
+    "country": "",
+    "vendor": "Konami Corporation"
+  },
+  "000681": {
+    "country": "",
+    "vendor": "Goepel Electronic GmbH"
+  },
+  "000682": {
+    "country": "CA",
+    "vendor": "Convedia"
+  },
+  "000685": {
+    "country": "US",
+    "vendor": "NetNearU Corporation"
+  },
+  "00068D": {
+    "country": "US",
+    "vendor": "SEPATON, Inc."
+  },
+  "000692": {
+    "country": "US",
+    "vendor": "Intruvert Networks, Inc."
+  },
+  "000693": {
+    "country": "US",
+    "vendor": "Flexus Computer Technology, Inc."
+  },
+  "000699": {
+    "country": "",
+    "vendor": "Vida Design Co."
+  },
+  "00069F": {
+    "country": "KR",
+    "vendor": "Kuokoa Networks"
+  },
+  "0006A3": {
+    "country": "",
+    "vendor": "Bitran Corporation"
+  },
+  "0006B1": {
+    "country": "CA",
+    "vendor": "Sonicwall"
+  },
+  "0006B4": {
+    "country": "US",
+    "vendor": "Vorne Industries, Inc."
+  },
+  "0006B7": {
+    "country": "",
+    "vendor": "TELEM GmbH"
+  },
+  "0006BC": {
+    "country": "JP",
+    "vendor": "Macrolink, Inc."
+  },
+  "0006BD": {
+    "country": "US",
+    "vendor": "BNTECHNOLOGY Co., Ltd."
+  },
+  "0006C0": {
+    "country": "US",
+    "vendor": "United Internetworks, Inc."
+  },
+  "0006C4": {
+    "country": "TW",
+    "vendor": "Piolink Inc."
+  },
+  "0006C5": {
+    "country": "HK",
+    "vendor": "INNOVI Technologies Limited"
+  },
+  "0006C7": {
+    "country": "US",
+    "vendor": "RFNET Technologies Pte Ltd (S)"
+  },
+  "0006CB": {
+    "country": "",
+    "vendor": "Jotron Electronics A/S"
+  },
+  "0006CD": {
+    "country": "JP",
+    "vendor": "Leaf Imaging Ltd."
+  },
+  "0006D9": {
+    "country": "US",
+    "vendor": "IPM-Net S.p.A."
+  },
+  "0006DA": {
+    "country": "US",
+    "vendor": "ITRAN Communications Ltd."
+  },
+  "0006E0": {
+    "country": "TW",
+    "vendor": "MAT Co., Ltd."
+  },
+  "0006E1": {
+    "country": "",
+    "vendor": "Techno Trade s.a"
+  },
+  "0006E4": {
+    "country": "JP",
+    "vendor": "Citel Technologies Ltd."
+  },
+  "0006E6": {
+    "country": "US",
+    "vendor": "DongYang Telecom Co., Ltd."
+  },
+  "0006EA": {
+    "country": "",
+    "vendor": "ELZET80 Mikrocomputer GmbH&Co. KG"
+  },
+  "0006EE": {
+    "country": "US",
+    "vendor": "Shenyang Neu-era Information & Technology Stock Co., Ltd"
+  },
+  "0006F3": {
+    "country": "KR",
+    "vendor": "AcceLight Networks"
+  },
+  "0006F9": {
+    "country": "JP",
+    "vendor": "Mitsui Zosen Systems Research Inc."
+  },
+  "0006FF": {
+    "country": "US",
+    "vendor": "Sheba Systems Co., Ltd."
+  },
+  "000706": {
+    "country": "US",
+    "vendor": "Sanritz Corporation"
+  },
+  "000710": {
+    "country": "US",
+    "vendor": "Adax, Inc."
+  },
+  "000718": {
+    "country": "CA",
+    "vendor": "iCanTek Co., Ltd."
+  },
+  "000719": {
+    "country": "US",
+    "vendor": "Mobiis Co., Ltd."
+  },
+  "00071D": {
+    "country": "",
+    "vendor": "Satelsa Sistemas Y Aplicaciones De Telecomunicaciones,"
+  },
+  "000720": {
+    "country": "",
+    "vendor": "Trutzschler GmbH & Co. KG"
+  },
+  "000721": {
+    "country": "",
+    "vendor": "Formac Elektronik GmbH"
+  },
+  "000724": {
+    "country": "JP",
+    "vendor": "Telemax Co., Ltd."
+  },
+  "00072A": {
+    "country": "",
+    "vendor": "Innovance Networks"
+  },
+  "00072D": {
+    "country": "",
+    "vendor": "CNSystems"
+  },
+  "00072E": {
+    "country": "",
+    "vendor": "North Node AB"
+  },
+  "000731": {
+    "country": "US",
+    "vendor": "Ophir-Spiricon LLC"
+  },
+  "000737": {
+    "country": "KR",
+    "vendor": "Soriya Co. Ltd."
+  },
+  "00073B": {
+    "country": "",
+    "vendor": "Tenovis GmbH & Co KG"
+  },
+  "00073C": {
+    "country": "",
+    "vendor": "Telecom Design"
+  },
+  "000742": {
+    "country": "ES",
+    "vendor": "Ormazabal"
+  },
+  "000744": {
+    "country": "US",
+    "vendor": "Unico, Inc."
+  },
+  "000746": {
+    "country": "KR",
+    "vendor": "TURCK, Inc."
+  },
+  "00074A": {
+    "country": "",
+    "vendor": "Carl Valentin GmbH"
+  },
+  "00074C": {
+    "country": "US",
+    "vendor": "Beicom Inc."
+  },
+  "00075C": {
+    "country": "US",
+    "vendor": "Eastman Kodak Company"
+  },
+  "00075E": {
+    "country": "US",
+    "vendor": "Ametek Power Instruments"
+  },
+  "00075F": {
+    "country": "",
+    "vendor": "VCS Video Communication Systems AG"
+  },
+  "000761": {
+    "country": "KR",
+    "vendor": "29530"
+  },
+  "000764": {
+    "country": "KR",
+    "vendor": "YoungWoo Telecom Co. Ltd."
+  },
+  "000765": {
+    "country": "",
+    "vendor": "Jade Quantum Technologies, Inc."
+  },
+  "000768": {
+    "country": "",
+    "vendor": "Danfoss A/S"
+  },
+  "000769": {
+    "country": "",
+    "vendor": "Italiana Macchi SpA"
+  },
+  "00076C": {
+    "country": "KR",
+    "vendor": "Daehanet, Inc."
+  },
+  "00076E": {
+    "country": "GB",
+    "vendor": "Sinetica Corporation Limited"
+  },
+  "000770": {
+    "country": "",
+    "vendor": "Ubiquoss Inc"
+  },
+  "000771": {
+    "country": "",
+    "vendor": "Embedded System Corporation"
+  },
+  "000773": {
+    "country": "",
+    "vendor": "Ascom Powerline Communications Ltd."
+  },
+  "000777": {
+    "country": "US",
+    "vendor": "Motah Ltd."
+  },
+  "000778": {
+    "country": "DE",
+    "vendor": "GERSTEL GmbH & Co. KG"
+  },
+  "000785": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "00078F": {
+    "country": "US",
+    "vendor": "Emkay Innovative Products"
+  },
+  "000790": {
+    "country": "US",
+    "vendor": "Tri-M Technologies (s) Limited"
+  },
+  "000791": {
+    "country": "KR",
+    "vendor": "International Data Communications, Inc."
+  },
+  "000796": {
+    "country": "JP",
+    "vendor": "LSI Systems, Inc."
+  },
+  "00079C": {
+    "country": "",
+    "vendor": "Golden Electronics Technology Co., Ltd."
+  },
+  "0007A6": {
+    "country": "CN",
+    "vendor": "Leviton Manufacturing Co., Inc."
+  },
+  "0007AA": {
+    "country": "US",
+    "vendor": "Quantum Data Inc."
+  },
+  "0007AC": {
+    "country": "",
+    "vendor": "Eolring"
+  },
+  "0007AE": {
+    "country": "US",
+    "vendor": "Britestream Networks, Inc."
+  },
+  "0007AF": {
+    "country": "BR",
+    "vendor": "Red Lion Controls, LP"
+  },
+  "0007B6": {
+    "country": "JP",
+    "vendor": "Telecom Technology Ltd."
+  },
+  "0007B9": {
+    "country": "JP",
+    "vendor": "Ginganet Corporation"
+  },
+  "0007BE": {
+    "country": "IT",
+    "vendor": "DataLogic SpA"
+  },
+  "0007C0": {
+    "country": "US",
+    "vendor": "NetZerver Inc."
+  },
+  "0007C4": {
+    "country": "FR",
+    "vendor": "JEAN Co. Ltd."
+  },
+  "0007C7": {
+    "country": "US",
+    "vendor": "Synectics Systems Limited"
+  },
+  "0007C9": {
+    "country": "",
+    "vendor": "Technol Seven Co., Ltd."
+  },
+  "0007CC": {
+    "country": "",
+    "vendor": "Kaba Benzing GmbH"
+  },
+  "0007D4": {
+    "country": "US",
+    "vendor": "Zhejiang Yutong Network Communication Co Ltd."
+  },
+  "0007D7": {
+    "country": "",
+    "vendor": "Caporis Networks AG"
+  },
+  "0007DF": {
+    "country": "KR",
+    "vendor": "Vbrick Systems Inc."
+  },
+  "0007E2": {
+    "country": "JP",
+    "vendor": "Bitworks, Inc."
+  },
+  "0007EC": {
+    "country": "KR",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "0007ED": {
+    "country": "US",
+    "vendor": "Altera Corporation"
+  },
+  "0007F6": {
+    "country": "US",
+    "vendor": "Qqest Software Systems"
+  },
+  "0007FA": {
+    "country": "",
+    "vendor": "ITT Co., Ltd."
+  },
+  "0007FC": {
+    "country": "CA",
+    "vendor": "Adept Systems Inc."
+  },
+  "0007FE": {
+    "country": "KR",
+    "vendor": "Rigaku Corporation"
+  },
+  "0007FF": {
+    "country": "US",
+    "vendor": "Gluon Networks"
+  },
+  "00080A": {
+    "country": "",
+    "vendor": "Espera-Werke GmbH"
+  },
+  "00080C": {
+    "country": "IT",
+    "vendor": "VDA Group S.p.a."
+  },
+  "000810": {
+    "country": "US",
+    "vendor": "Key Technology, Inc."
+  },
+  "000811": {
+    "country": "JP",
+    "vendor": "VOIX Corporation"
+  },
+  "000812": {
+    "country": "JP",
+    "vendor": "GM-2 Corporation"
+  },
+  "000814": {
+    "country": "",
+    "vendor": "TIL Technologies"
+  },
+  "00081A": {
+    "country": "",
+    "vendor": "Sanrad Intelligence Storage Communications (2000) Ltd."
+  },
+  "00081D": {
+    "country": "US",
+    "vendor": "Ipsil, Incorporated"
+  },
+  "000821": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "000826": {
+    "country": "US",
+    "vendor": "Colorado Med Tech"
+  },
+  "00082A": {
+    "country": "FR",
+    "vendor": "Powerwallz Network Security"
+  },
+  "00082E": {
+    "country": "",
+    "vendor": "Multitone Electronics PLC"
+  },
+  "00084E": {
+    "country": "US",
+    "vendor": "DivergeNet, Inc."
+  },
+  "000852": {
+    "country": "KR",
+    "vendor": "Davolink Co. Inc."
+  },
+  "000853": {
+    "country": "",
+    "vendor": "Schleicher GmbH & Co. Relaiswerke KG"
+  },
+  "000856": {
+    "country": "",
+    "vendor": "Gamatronic Electronic Industries Ltd."
+  },
+  "00085C": {
+    "country": "SE",
+    "vendor": "Shanghai Dare Technologies Co. Ltd."
+  },
+  "000867": {
+    "country": "KR",
+    "vendor": "Uptime Devices"
+  },
+  "000871": {
+    "country": "US",
+    "vendor": "NORTHDATA Co., Ltd."
+  },
+  "000872": {
+    "country": "DE",
+    "vendor": "Sorenson Communications"
+  },
+  "000876": {
+    "country": "US",
+    "vendor": "SDSystem"
+  },
+  "000884": {
+    "country": "",
+    "vendor": "Index Braille AB"
+  },
+  "000891": {
+    "country": "IT",
+    "vendor": "Lyan Inc."
+  },
+  "0008B8": {
+    "country": "JP",
+    "vendor": "E.F. Johnson"
+  },
+  "0008BD": {
+    "country": "US",
+    "vendor": "TEPG-US"
+  },
+  "0008EC": {
+    "country": "US",
+    "vendor": "Optical Zonu Corporation"
+  },
+  "000CED": {
+    "country": "IE",
+    "vendor": "Real Digital Media"
+  },
+  "000FAE": {
+    "country": "CA",
+    "vendor": "E2O Communications"
+  },
+  "001118": {
+    "country": "CH",
+    "vendor": "BLX IC Design Corp., Ltd."
+  },
+  "0011DA": {
+    "country": "TW",
+    "vendor": "Vivaas Technology Inc.02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "0011F1": {
+    "country": "IL",
+    "vendor": "QinetiQ Ltd"
+  },
+  "001332": {
+    "country": "TW",
+    "vendor": "Beijing Topsec Network Security Technology Co., Ltd."
+  },
+  "001439": {
+    "country": "CN",
+    "vendor": "Blonder Tongue Laboratories, Inc"
+  },
+  "001522": {
+    "country": "GB",
+    "vendor": "Dea Security"
+  },
+  "0015BE": {
+    "country": "US",
+    "vendor": "Iqua Ltd."
+  },
+  "0016C6": {
+    "country": "US",
+    "vendor": "North Atlantic Industries"
+  },
+  "0016D3": {
+    "country": "IN",
+    "vendor": "Wistron Corporation"
+  },
+  "0016DD": {
+    "country": "NL",
+    "vendor": "Gigabeam Corporation"
+  },
+  "0016E0": {
+    "country": "KR",
+    "vendor": "3Com Ltd"
+  },
+  "0016E5": {
+    "country": "",
+    "vendor": "FORDLEY DEVELOPMENT LIMITED"
+  },
+  "001809": {
+    "country": "US",
+    "vendor": "CRESYN"
+  },
+  "0018A5": {
+    "country": "JP",
+    "vendor": "ADigit Technologies Corp."
+  },
+  "001A98": {
+    "country": "US",
+    "vendor": "Asotel Communication Limited Taiwan Branch"
+  },
+  "001AA1": {
+    "country": "KR",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "001BF9": {
+    "country": "BE",
+    "vendor": "Intellitect Water Ltd"
+  },
+  "002002": {
+    "country": "US",
+    "vendor": "SERITECH ENTERPRISE CO., LTD."
+  },
+  "002004": {
+    "country": "SG",
+    "vendor": "YAMATAKE-HONEYWELL CO., LTD."
+  },
+  "002009": {
+    "country": "US",
+    "vendor": "PACKARD BELL ELEC., INC."
+  },
+  "00200D": {
+    "country": "",
+    "vendor": "CARL ZEISS"
+  },
+  "002016": {
+    "country": "JP",
+    "vendor": "SHOWA ELECTRIC WIRE & CABLE CO"
+  },
+  "00201A": {
+    "country": "US",
+    "vendor": "MRV Communications, Inc."
+  },
+  "00201B": {
+    "country": "US",
+    "vendor": "NORTHERN TELECOM/NETWORK"
+  },
+  "00201C": {
+    "country": "US",
+    "vendor": "EXCEL, INC."
+  },
+  "00201F": {
+    "country": "DE",
+    "vendor": "BEST POWER TECHNOLOGY, INC."
+  },
+  "002028": {
+    "country": "US",
+    "vendor": "WEST EGG SYSTEMS, INC."
+  },
+  "00202B": {
+    "country": "JP",
+    "vendor": "ADVANCED TELECOMMUNICATIONS MODULES, LTD."
+  },
+  "00202D": {
+    "country": "JP",
+    "vendor": "TAIYO CORPORATION02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "002041": {
+    "country": "KR",
+    "vendor": "DATA NET"
+  },
+  "002042": {
+    "country": "US",
+    "vendor": "DATAMETRICS CORP."
+  },
+  "002048": {
+    "country": "JP",
+    "vendor": "Marconi Communications"
+  },
+  "002049": {
+    "country": "KR",
+    "vendor": "COMTRON, INC."
+  },
+  "002056": {
+    "country": "",
+    "vendor": "NEOPRODUCTS"
+  },
+  "00205F": {
+    "country": "",
+    "vendor": "GAMMADATA COMPUTER GMBH"
+  },
+  "002074": {
+    "country": "KR",
+    "vendor": "SUNGWOON SYSTEMS"
+  },
+  "002079": {
+    "country": "DE",
+    "vendor": "MIKRON GMBH"
+  },
+  "002083": {
+    "country": "US",
+    "vendor": "PRESTICOM INCORPORATED"
+  },
+  "002093": {
+    "country": "US",
+    "vendor": "LANDINGS TECHNOLOGY CORP."
+  },
+  "002096": {
+    "country": "JP",
+    "vendor": "Invensys"
+  },
+  "002099": {
+    "country": "US",
+    "vendor": "BON ELECTRIC CO., LTD."
+  },
+  "00209C": {
+    "country": "US",
+    "vendor": "PRIMARY ACCESS CORP."
+  },
+  "0020A9": {
+    "country": "",
+    "vendor": "WHITE HORSE INDUSTRIAL"
+  },
+  "0020AA": {
+    "country": "GB",
+    "vendor": "Ericsson Television Limited"
+  },
+  "0020AC": {
+    "country": "US",
+    "vendor": "INTERFLEX DATENSYSTEME GMBH"
+  },
+  "0020B2": {
+    "country": "US",
+    "vendor": "GKD Gesellschaft Fur Kommunikation Und Datentechnik"
+  },
+  "0020B4": {
+    "country": "GB",
+    "vendor": "TERMA ELEKTRONIK AS"
+  },
+  "0020C6": {
+    "country": "",
+    "vendor": "NECTEC"
+  },
+  "0020C7": {
+    "country": "JP",
+    "vendor": "AKAI Professional M.I. Corp."
+  },
+  "0020CE": {
+    "country": "TW",
+    "vendor": "LOGICAL DESIGN GROUP, INC."
+  },
+  "0020D2": {
+    "country": "",
+    "vendor": "RAD DATA COMMUNICATIONS, LTD."
+  },
+  "0020DC": {
+    "country": "",
+    "vendor": "DENSITRON TAIWAN LTD."
+  },
+  "0020E3": {
+    "country": "JP",
+    "vendor": "MCD KENCOM CORPORATION"
+  },
+  "0020E8": {
+    "country": "US",
+    "vendor": "DATATREK CORPORATION"
+  },
+  "0020F3": {
+    "country": "GB",
+    "vendor": "RAYNET CORPORATION"
+  },
+  "0020F6": {
+    "country": "US",
+    "vendor": "NET TEK  AND KARLNET, INC."
+  },
+  "0021C2": {
+    "country": "US",
+    "vendor": "GL Communications Inc"
+  },
+  "0021E0": {
+    "country": "US",
+    "vendor": "CommAgility Ltd"
+  },
+  "00222F": {
+    "country": "IT",
+    "vendor": "Open Grid Computing, Inc."
+  },
+  "00225B": {
+    "country": "DE",
+    "vendor": "Teradici Corporation"
+  },
+  "003008": {
+    "country": "US",
+    "vendor": "AVIO DIGITAL, INC."
+  },
+  "003016": {
+    "country": "",
+    "vendor": "ISHIDA CO., LTD."
+  },
+  "003034": {
+    "country": "US",
+    "vendor": "SET ENGINEERING"
+  },
+  "00303C": {
+    "country": "US",
+    "vendor": "ONNTO CORP."
+  },
+  "003041": {
+    "country": "US",
+    "vendor": "SAEJIN T & M CO., LTD."
+  },
+  "003047": {
+    "country": "",
+    "vendor": "NISSEI ELECTRIC CO., LTD."
+  },
+  "003058": {
+    "country": "US",
+    "vendor": "API MOTION"
+  },
+  "00305A": {
+    "country": "US",
+    "vendor": "TELGEN CORPORATION"
+  },
+  "003066": {
+    "country": "KR",
+    "vendor": "RFM"
+  },
+  "00306F": {
+    "country": "US",
+    "vendor": "SEYEON TECH. CO., LTD."
+  },
+  "003077": {
+    "country": "US",
+    "vendor": "ONPREM NETWORKS"
+  },
+  "003080": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "0030B4": {
+    "country": "TW",
+    "vendor": "INTERSIL CORP."
+  },
+  "0030B6": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "0030F2": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "004000": {
+    "country": "BR",
+    "vendor": "PCI COMPONENTES DA AMZONIA LTD"
+  },
+  "004010": {
+    "country": "GB",
+    "vendor": "SONIC SYSTEMS, INC."
+  },
+  "004018": {
+    "country": "US",
+    "vendor": "ADOBE SYSTEMS, INC."
+  },
+  "004022": {
+    "country": "US",
+    "vendor": "KLEVER COMPUTERS, INC."
+  },
+  "004023": {
+    "country": "",
+    "vendor": "LOGIC CORPORATION"
+  },
+  "004024": {
+    "country": "",
+    "vendor": "COMPAC INC."
+  },
+  "004036": {
+    "country": "GB",
+    "vendor": "Minim Inc."
+  },
+  "004040": {
+    "country": "US",
+    "vendor": "RING ACCESS, INC."
+  },
+  "00404C": {
+    "country": "",
+    "vendor": "HYPERTEC PTY LTD."
+  },
+  "004054": {
+    "country": "US",
+    "vendor": "CONNECTION MACHINES SERVICES"
+  },
+  "004055": {
+    "country": "US",
+    "vendor": "METRONIX GMBH"
+  },
+  "004057": {
+    "country": "US",
+    "vendor": "LOCKHEED - SANDERS"
+  },
+  "00405B": {
+    "country": "US",
+    "vendor": "FUNASSET LIMITED"
+  },
+  "00405D": {
+    "country": "US",
+    "vendor": "STAR-TEK, INC."
+  },
+  "004060": {
+    "country": "GB",
+    "vendor": "COMENDEC LTD"
+  },
+  "004064": {
+    "country": "DE",
+    "vendor": "KLA INSTRUMENTS CORPORATION"
+  },
+  "004067": {
+    "country": "US",
+    "vendor": "OMNIBYTE CORPORATION"
+  },
+  "004069": {
+    "country": "US",
+    "vendor": "LEMCOM SYSTEMS, INC."
+  },
+  "00406D": {
+    "country": "US",
+    "vendor": "LANCO, INC."
+  },
+  "004075": {
+    "country": "US",
+    "vendor": "Tattile SRL"
+  },
+  "00407B": {
+    "country": "GB",
+    "vendor": "SCIENTIFIC ATLANTA"
+  },
+  "004080": {
+    "country": "TW",
+    "vendor": "ATHENIX CORPORATION"
+  },
+  "00408A": {
+    "country": "",
+    "vendor": "TPS TELEPROCESSING SYS. GMBH"
+  },
+  "004092": {
+    "country": "US",
+    "vendor": "ASP COMPUTER PRODUCTS, INC."
+  },
+  "004095": {
+    "country": "SG",
+    "vendor": "R.P.T. INTERGROUPS INT'L LTD."
+  },
+  "0040A2": {
+    "country": "TW",
+    "vendor": "KINGSTAR TECHNOLOGY INC."
+  },
+  "0040A9": {
+    "country": "GB",
+    "vendor": "DATACOM INC."
+  },
+  "0040AB": {
+    "country": "JP",
+    "vendor": "ROLAND DG CORPORATION"
+  },
+  "0040B0": {
+    "country": "US",
+    "vendor": "BYTEX CORPORATION, ENGINEERING"
+  },
+  "0040BB": {
+    "country": "US",
+    "vendor": "GOLDSTAR CABLE CO., LTD."
+  },
+  "0040BF": {
+    "country": "US",
+    "vendor": "CHANNEL SYSTEMS INTERN'L INC."
+  },
+  "0040C8": {
+    "country": "US",
+    "vendor": "MILAN TECHNOLOGY CORPORATION"
+  },
+  "0040D2": {
+    "country": "US",
+    "vendor": "PAGINE CORPORATION"
+  },
+  "0040D3": {
+    "country": "KR",
+    "vendor": "KIMPSION INTERNATIONAL CORP."
+  },
+  "0040D7": {
+    "country": "",
+    "vendor": "STUDIO GEN INC."
+  },
+  "0040DB": {
+    "country": "CA",
+    "vendor": "ADVANCED TECHNICAL SOLUTIONS"
+  },
+  "0040E6": {
+    "country": "",
+    "vendor": "C.A.E.N."
+  },
+  "0040EA": {
+    "country": "",
+    "vendor": "PLAIN TREE SYSTEMS INC"
+  },
+  "0040F0": {
+    "country": "JP",
+    "vendor": "MicroBrain,Inc."
+  },
+  "0040F2": {
+    "country": "",
+    "vendor": "JANICH & KLASS COMPUTERTECHNIK"
+  },
+  "0040F4": {
+    "country": "US",
+    "vendor": "CAMEO COMMUNICATIONS, INC."
+  },
+  "0040F9": {
+    "country": "US",
+    "vendor": "COMBINET"
+  },
+  "0040FD": {
+    "country": "KR",
+    "vendor": "LXE"
+  },
+  "005015": {
+    "country": "US",
+    "vendor": "BRIGHT STAR ENGINEERING"
+  },
+  "005021": {
+    "country": "US",
+    "vendor": "EIS INTERNATIONAL, INC."
+  },
+  "00502D": {
+    "country": "JP",
+    "vendor": "ACCEL, INC."
+  },
+  "00503B": {
+    "country": "TW",
+    "vendor": "MEDIAFIRE CORPORATION"
+  },
+  "00503C": {
+    "country": "GB",
+    "vendor": "TSINGHUA NOVEL ELECTRONICS"
+  },
+  "005047": {
+    "country": "US",
+    "vendor": "Private"
+  },
+  "00505E": {
+    "country": "",
+    "vendor": "DIGITEK MICROLOGIC S.A."
+  },
+  "005069": {
+    "country": "US",
+    "vendor": "PixStream Incorporated"
+  },
+  "005072": {
+    "country": "US",
+    "vendor": "CORVIS CORPORATION"
+  },
+  "00507E": {
+    "country": "GB",
+    "vendor": "NEWER TECHNOLOGY"
+  },
+  "005090": {
+    "country": "",
+    "vendor": "DCTRI"
+  },
+  "00509B": {
+    "country": "",
+    "vendor": "SWITCHCORE AB"
+  },
+  "0050B3": {
+    "country": "US",
+    "vendor": "VOICEBOARD CORPORATION"
+  },
+  "0050C9": {
+    "country": "",
+    "vendor": "MASPRO DENKOH CORP."
+  },
+  "0050CF": {
+    "country": "US",
+    "vendor": "VANLINK COMMUNICATION TECHNOLOGY RESEARCH INSTITUTE"
+  },
+  "0050D5": {
+    "country": "GB",
+    "vendor": "AD SYSTEMS CORP."
+  },
+  "0050EA": {
+    "country": "US",
+    "vendor": "XEL COMMUNICATIONS, INC."
+  },
+  "0050F4": {
+    "country": "",
+    "vendor": "SIGMATEK GMBH & CO. KG"
+  },
+  "006086": {
+    "country": "US",
+    "vendor": "LOGIC REPLACEMENT TECH. LTD."
+  },
+  "0060B0": {
+    "country": "AU",
+    "vendor": "Hewlett Packard"
+  },
+  "008000": {
+    "country": "GB",
+    "vendor": "MULTITECH SYSTEMS, INC."
+  },
+  "008001": {
+    "country": "US",
+    "vendor": "PERIPHONICS CORPORATION"
+  },
+  "008002": {
+    "country": "US",
+    "vendor": "SATELCOM (UK) LTD"
+  },
+  "008008": {
+    "country": "US",
+    "vendor": "DYNATECH COMPUTER SYSTEMS"
+  },
+  "00800E": {
+    "country": "CH",
+    "vendor": "ATLANTIX CORPORATION"
+  },
+  "008010": {
+    "country": "US",
+    "vendor": "COMMODORE INTERNATIONAL"
+  },
+  "008017": {
+    "country": "US",
+    "vendor": "PFU LIMITED"
+  },
+  "008019": {
+    "country": "US",
+    "vendor": "DAYNA COMMUNICATIONS, INC."
+  },
+  "00801E": {
+    "country": "US",
+    "vendor": "XINETRON, INC."
+  },
+  "008023": {
+    "country": "GB",
+    "vendor": "INTEGRATED BUSINESS NETWORKS"
+  },
+  "00802C": {
+    "country": "US",
+    "vendor": "THE SAGE GROUP PLC"
+  },
+  "008031": {
+    "country": "US",
+    "vendor": "BASYS, CORP."
+  },
+  "008032": {
+    "country": "",
+    "vendor": "ACCESS CO., LTD."
+  },
+  "008036": {
+    "country": "JP",
+    "vendor": "REFLEX MANUFACTURING SYSTEMS"
+  },
+  "008039": {
+    "country": "",
+    "vendor": "ALCATEL STC AUSTRALIA"
+  },
+  "008042": {
+    "country": "US",
+    "vendor": "Artesyn Embedded Technologies"
+  },
+  "008045": {
+    "country": "US",
+    "vendor": "MATSUSHITA ELECTRIC IND. CO"
+  },
+  "008046": {
+    "country": "",
+    "vendor": "Tattile SRL"
+  },
+  "008049": {
+    "country": "",
+    "vendor": "NISSIN ELECTRIC CO., LTD."
+  },
+  "00804B": {
+    "country": "",
+    "vendor": "EAGLE TECHNOLOGIES PTY.LTD."
+  },
+  "008056": {
+    "country": "",
+    "vendor": "SPHINX Electronics GmbH & Co KG"
+  },
+  "008059": {
+    "country": "US",
+    "vendor": "STANLEY ELECTRIC CO., LTD"
+  },
+  "00805B": {
+    "country": "US",
+    "vendor": "CONDOR SYSTEMS, INC."
+  },
+  "00806D": {
+    "country": "JP",
+    "vendor": "CENTURY SYSTEMS CORP."
+  },
+  "00807C": {
+    "country": "JP",
+    "vendor": "FIBERCOM, INC."
+  },
+  "008089": {
+    "country": "US",
+    "vendor": "TECNETICS (PTY) LTD."
+  },
+  "00808B": {
+    "country": "US",
+    "vendor": "DACOLL LIMITED"
+  },
+  "00808D": {
+    "country": "",
+    "vendor": "WESTCOAST TECHNOLOGY B.V."
+  },
+  "00808E": {
+    "country": "GB",
+    "vendor": "RADSTONE TECHNOLOGY"
+  },
+  "00808F": {
+    "country": "US",
+    "vendor": "C. ITOH ELECTRONICS, INC."
+  },
+  "00809B": {
+    "country": "GB",
+    "vendor": "JUSTSYSTEM CORPORATION"
+  },
+  "0080A2": {
+    "country": "",
+    "vendor": "CREATIVE ELECTRONIC SYSTEMS"
+  },
+  "0080A4": {
+    "country": "US",
+    "vendor": "LIBERTY ELECTRONICS"
+  },
+  "0080A8": {
+    "country": "US",
+    "vendor": "VITACOM CORPORATION"
+  },
+  "0080AE": {
+    "country": "US",
+    "vendor": "HUGHES NETWORK SYSTEMS"
+  },
+  "0080AF": {
+    "country": "",
+    "vendor": "ALLUMER CO., LTD."
+  },
+  "0080B2": {
+    "country": "US",
+    "vendor": "NETWORK EQUIPMENT TECHNOLOGIES"
+  },
+  "0080BE": {
+    "country": "US",
+    "vendor": "ARIES RESEARCH"
+  },
+  "0080C1": {
+    "country": "US",
+    "vendor": "LANEX CORPORATION"
+  },
+  "0080CC": {
+    "country": "US",
+    "vendor": "MICROWAVE BYPASS SYSTEMS"
+  },
+  "0080D1": {
+    "country": "US",
+    "vendor": "KIMTRON CORPORATION"
+  },
+  "0080D7": {
+    "country": "US",
+    "vendor": "Fantum Engineering"
+  },
+  "0080EC": {
+    "country": "US",
+    "vendor": "SUPERCOMPUTING SOLUTIONS, INC."
+  },
+  "0080F1": {
+    "country": "US",
+    "vendor": "OPUS SYSTEMS"
+  },
+  "0080F4": {
+    "country": "",
+    "vendor": "TELEMECANIQUE ELECTRIQUE"
+  },
+  "0080F6": {
+    "country": "CA",
+    "vendor": "SYNERGY MICROSYSTEMS"
+  },
+  "0080FA": {
+    "country": "DE",
+    "vendor": "RWT GMBH"
+  },
+  "0080FE": {
+    "country": "US",
+    "vendor": "AZURE TECHNOLOGIES, INC."
+  },
+  "009012": {
+    "country": "JP",
+    "vendor": "GLOBESPAN SEMICONDUCTOR, INC."
+  },
+  "009046": {
+    "country": "US",
+    "vendor": "DEXDYNE, LTD."
+  },
+  "009048": {
+    "country": "US",
+    "vendor": "ZEAL CORPORATION"
+  },
+  "009064": {
+    "country": "US",
+    "vendor": "Thomson Inc."
+  },
+  "0090C9": {
+    "country": "US",
+    "vendor": "DPAC Technologies"
+  },
+  "0090EA": {
+    "country": "SE",
+    "vendor": "ALPHA TECHNOLOGIES, INC."
+  },
+  "0090FB": {
+    "country": "NL",
+    "vendor": "PORTWELL, INC."
+  },
+  "00A001": {
+    "country": "AU",
+    "vendor": "DRS Signal Solutions"
+  },
+  "00A00A": {
+    "country": "US",
+    "vendor": "Airspan"
+  },
+  "00A027": {
+    "country": "US",
+    "vendor": "FIREPOWER SYSTEMS, INC."
+  },
+  "00A030": {
+    "country": "",
+    "vendor": "CAPTOR NV/SA"
+  },
+  "00A042": {
+    "country": "US",
+    "vendor": "SPUR PRODUCTS CORP."
+  },
+  "00A04B": {
+    "country": "US",
+    "vendor": "TFL LAN INC."
+  },
+  "00A04F": {
+    "country": "US",
+    "vendor": "AMERITEC CORP."
+  },
+  "00A054": {
+    "country": "GB",
+    "vendor": "Private"
+  },
+  "00A05C": {
+    "country": "JP",
+    "vendor": "INVENTORY CONVERSION, INC./"
+  },
+  "00A083": {
+    "country": "US",
+    "vendor": "ASIMMPHONY TURKEY"
+  },
+  "00A088": {
+    "country": "US",
+    "vendor": "ESSENTIAL COMMUNICATIONS"
+  },
+  "00A091": {
+    "country": "",
+    "vendor": "APPLICOM INTERNATIONAL"
+  },
+  "00A092": {
+    "country": "US",
+    "vendor": "H. BOLLMANN MANUFACTURERS, LTD"
+  },
+  "00A097": {
+    "country": "US",
+    "vendor": "JC INFORMATION SYSTEMS"
+  },
+  "00A0A5": {
+    "country": "GB",
+    "vendor": "TEKNOR MICROSYSTEME, INC."
+  },
+  "00A0AB": {
+    "country": "",
+    "vendor": "NETCS INFORMATIONSTECHNIK GMBH"
+  },
+  "00A0B2": {
+    "country": "",
+    "vendor": "SHIMA SEIKI"
+  },
+  "00A0B4": {
+    "country": "JP",
+    "vendor": "TEXAS MICROSYSTEMS, INC."
+  },
+  "00A0B6": {
+    "country": "US",
+    "vendor": "SANRITZ AUTOMATION CO., LTD."
+  },
+  "00A0BB": {
+    "country": "",
+    "vendor": "HILAN GMBH"
+  },
+  "00A0CB": {
+    "country": "US",
+    "vendor": "ARK TELECOMMUNICATIONS, INC."
+  },
+  "00A0D8": {
+    "country": "US",
+    "vendor": "SPECTRA - TEK"
+  },
+  "00A0DE": {
+    "country": "US",
+    "vendor": "YAMAHA CORPORATION"
+  },
+  "00B009": {
+    "country": "US",
+    "vendor": "Grass Valley, A Belden Brand"
+  },
+  "00B052": {
+    "country": "TW",
+    "vendor": "Atheros Communications"
+  },
+  "00B0C2": {
+    "country": "CA",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "00C004": {
+    "country": "TW",
+    "vendor": "JAPAN BUSINESS COMPUTER CO.LTD"
+  },
+  "00C005": {
+    "country": "US",
+    "vendor": "LIVINGSTON ENTERPRISES, INC."
+  },
+  "00C00A": {
+    "country": "",
+    "vendor": "MICRO CRAFT"
+  },
+  "00C01D": {
+    "country": "US",
+    "vendor": "GRAND JUNCTION NETWORKS, INC."
+  },
+  "00C01E": {
+    "country": "",
+    "vendor": "LA FRANCAISE DES JEUX"
+  },
+  "00C027": {
+    "country": "NL",
+    "vendor": "CIPHER SYSTEMS, INC."
+  },
+  "00C034": {
+    "country": "CA",
+    "vendor": "TRANSACTION NETWORK"
+  },
+  "00C037": {
+    "country": "US",
+    "vendor": "DYNATEM"
+  },
+  "00C041": {
+    "country": "US",
+    "vendor": "DIGITAL TRANSMISSION SYSTEMS"
+  },
+  "00C046": {
+    "country": "US",
+    "vendor": "Blue Chip Technology Ltd"
+  },
+  "00C047": {
+    "country": "US",
+    "vendor": "UNIMICRO SYSTEMS, INC."
+  },
+  "00C04C": {
+    "country": "",
+    "vendor": "DEPARTMENT OF FOREIGN AFFAIRS"
+  },
+  "00C04D": {
+    "country": "",
+    "vendor": "MITEC, INC."
+  },
+  "00C04E": {
+    "country": "US",
+    "vendor": "COMTROL CORPORATION"
+  },
+  "00C051": {
+    "country": "US",
+    "vendor": "ADVANCED INTEGRATION RESEARCH"
+  },
+  "00C053": {
+    "country": "US",
+    "vendor": "Aspect Software Inc."
+  },
+  "00C056": {
+    "country": "",
+    "vendor": "SOMELEC"
+  },
+  "00C060": {
+    "country": "",
+    "vendor": "ID SCANDINAVIA AS"
+  },
+  "00C06D": {
+    "country": "US",
+    "vendor": "BOCA RESEARCH, INC."
+  },
+  "00C06E": {
+    "country": "US",
+    "vendor": "HAFT TECHNOLOGY, INC."
+  },
+  "00C072": {
+    "country": "TW",
+    "vendor": "KNX LTD."
+  },
+  "00C074": {
+    "country": "JP",
+    "vendor": "TOYODA AUTOMATIC LOOM"
+  },
+  "00C076": {
+    "country": "",
+    "vendor": "I-DATA INTERNATIONAL A-S"
+  },
+  "00C07C": {
+    "country": "US",
+    "vendor": "HIGHTECH INFORMATION"
+  },
+  "00C07D": {
+    "country": "US",
+    "vendor": "RISC DEVELOPMENTS LTD."
+  },
+  "00C07F": {
+    "country": "US",
+    "vendor": "NUPON COMPUTING CORP."
+  },
+  "00C08D": {
+    "country": "US",
+    "vendor": "TRONIX PRODUCT DEVELOPMENT"
+  },
+  "00C090": {
+    "country": "US",
+    "vendor": "PRAIM S.R.L."
+  },
+  "00C097": {
+    "country": "",
+    "vendor": "ARCHIPEL SA"
+  },
+  "00C09E": {
+    "country": "US",
+    "vendor": "CACHE COMPUTERS, INC."
+  },
+  "00C0B7": {
+    "country": "US",
+    "vendor": "AMERICAN POWER CONVERSION CORP"
+  },
+  "00C0BD": {
+    "country": "US",
+    "vendor": "INEX TECHNOLOGIES, INC."
+  },
+  "00C0CB": {
+    "country": "US",
+    "vendor": "CONTROL TECHNOLOGY CORPORATION"
+  },
+  "00C0D2": {
+    "country": "GB",
+    "vendor": "SYNTELLECT, INC."
+  },
+  "00C0E0": {
+    "country": "US",
+    "vendor": "DSC COMMUNICATION CORP."
+  },
+  "00C0E1": {
+    "country": "US",
+    "vendor": "SONIC SOLUTIONS"
+  },
+  "00C0E3": {
+    "country": "TW",
+    "vendor": "OSITECH COMMUNICATIONS, INC."
+  },
+  "00C0FD": {
+    "country": "",
+    "vendor": "PROSUM"
+  },
+  "00D004": {
+    "country": "",
+    "vendor": "PENTACOM LTD."
+  },
+  "00D005": {
+    "country": "",
+    "vendor": "ZHS ZEITMANAGEMENTSYSTEME"
+  },
+  "00D008": {
+    "country": "DK",
+    "vendor": "MACTELL CORPORATION"
+  },
+  "00D00C": {
+    "country": "US",
+    "vendor": "SNIJDER MICRO SYSTEMS"
+  },
+  "00D00E": {
+    "country": "US",
+    "vendor": "PLURIS, INC."
+  },
+  "00D011": {
+    "country": "US",
+    "vendor": "PRISM VIDEO, INC."
+  },
+  "00D014": {
+    "country": "US",
+    "vendor": "ROOT, INC."
+  },
+  "00D016": {
+    "country": "IE",
+    "vendor": "SCM MICROSYSTEMS, INC."
+  },
+  "00D01B": {
+    "country": "",
+    "vendor": "MIMAKI ENGINEERING CO., LTD."
+  },
+  "00D01E": {
+    "country": "US",
+    "vendor": "PINGTEL CORP."
+  },
+  "00D021": {
+    "country": "US",
+    "vendor": "REGENT ELECTRONICS CORP."
+  },
+  "00D022": {
+    "country": "US",
+    "vendor": "INCREDIBLE TECHNOLOGIES, INC."
+  },
+  "00D02B": {
+    "country": "TW",
+    "vendor": "JETCELL, INC."
+  },
+  "00D02C": {
+    "country": "US",
+    "vendor": "CAMPBELL SCIENTIFIC, INC."
+  },
+  "00D031": {
+    "country": "TW",
+    "vendor": "INDUSTRIAL LOGIC CORPORATION"
+  },
+  "00D032": {
+    "country": "",
+    "vendor": "YANO ELECTRIC CO., LTD."
+  },
+  "00D039": {
+    "country": "SG",
+    "vendor": "UTILICOM, INC."
+  },
+  "00D03F": {
+    "country": "TW",
+    "vendor": "AMERICAN COMMUNICATION"
+  },
+  "00D044": {
+    "country": "US",
+    "vendor": "ALIDIAN NETWORKS, INC."
+  },
+  "00D04C": {
+    "country": "GB",
+    "vendor": "Eseye Design Ltd"
+  },
+  "00D053": {
+    "country": "KR",
+    "vendor": "CONNECTED SYSTEMS"
+  },
+  "00D057": {
+    "country": "US",
+    "vendor": "ULTRAK, INC."
+  },
+  "00D05D": {
+    "country": "US",
+    "vendor": "INTELLIWORXX, INC."
+  },
+  "00D062": {
+    "country": "",
+    "vendor": "DIGIGRAM"
+  },
+  "00D063": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "00D064": {
+    "country": "GB",
+    "vendor": "MULTITEL"
+  },
+  "00D067": {
+    "country": "US",
+    "vendor": "CAMPIO COMMUNICATIONS"
+  },
+  "00D06A": {
+    "country": "TW",
+    "vendor": "LINKUP SYSTEMS CORPORATION"
+  },
+  "00D06D": {
+    "country": "US",
+    "vendor": "ACRISON, INC."
+  },
+  "00D074": {
+    "country": "US",
+    "vendor": "TAQUA SYSTEMS, INC."
+  },
+  "00D07D": {
+    "country": "US",
+    "vendor": "COSINE COMMUNICATIONS"
+  },
+  "00D07F": {
+    "country": "GB",
+    "vendor": "STRATEGY & TECHNOLOGY, LIMITED"
+  },
+  "00D081": {
+    "country": "US",
+    "vendor": "RTD Embedded Technologies, Inc."
+  },
+  "00D083": {
+    "country": "US",
+    "vendor": "INVERTEX, INC."
+  },
+  "00D084": {
+    "country": "KR",
+    "vendor": "NEXCOMM SYSTEMS, INC."
+  },
+  "00D086": {
+    "country": "US",
+    "vendor": "FOVEON, INC."
+  },
+  "00D0B0": {
+    "country": "US",
+    "vendor": "BITSWITCH LTD."
+  },
+  "00D0C0": {
+    "country": "US",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "00D0C2": {
+    "country": "",
+    "vendor": "BALTHAZAR TECHNOLOGY AB"
+  },
+  "00D0C3": {
+    "country": "",
+    "vendor": "VIVID TECHNOLOGY PTE, LTD."
+  },
+  "00D0C8": {
+    "country": "DK",
+    "vendor": "Prevas A/S"
+  },
+  "00D0D3": {
+    "country": "ZA",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "00D0D6": {
+    "country": "",
+    "vendor": "AETHRA TELECOMUNICAZIONI"
+  },
+  "00D0DD": {
+    "country": "US",
+    "vendor": "SUNRISE TELECOM, INC."
+  },
+  "00D0E3": {
+    "country": "US",
+    "vendor": "ELE-CHEM ENGINEERING CO., LTD."
+  },
+  "00D0EA": {
+    "country": "US",
+    "vendor": "NEXTONE COMMUNICATIONS, INC."
+  },
+  "00D0F0": {
+    "country": "",
+    "vendor": "CONVISION TECHNOLOGY GMBH"
+  },
+  "00D0F1": {
+    "country": "",
+    "vendor": "SEGA ENTERPRISES, LTD."
+  },
+  "00DD00": {
+    "country": "GB",
+    "vendor": "UNGERMANN-BASS INC."
+  },
+  "00E01F": {
+    "country": "US",
+    "vendor": "AVIDIA Systems, Inc."
+  },
+  "021C7C": {
+    "country": "US",
+    "vendor": "PERQ SYSTEMS CORPORATION"
+  },
+  "02AA3C": {
+    "country": "US",
+    "vendor": "OLIVETTI TELECOMM SPA (OLTECO)"
+  },
+  "040AE0": {
+    "country": "",
+    "vendor": "XMIT AG COMPUTER NETWORKS"
+  },
+  "0446CF": {
+    "country": "VN",
+    "vendor": "Beijing Venustech Cybervision Co.,Ltd."
+  },
+  "080002": {
+    "country": "CA",
+    "vendor": "BRIDGE COMMUNICATIONS INC."
+  },
+  "080008": {
+    "country": "US",
+    "vendor": "BOLT BERANEK AND NEWMAN INC."
+  },
+  "08003F": {
+    "country": "",
+    "vendor": "FRED KOSCHARA ENTERPRISES"
+  },
+  "080043": {
+    "country": "US",
+    "vendor": "PIXEL COMPUTER INC."
+  },
+  "080049": {
+    "country": "US",
+    "vendor": "UNIVATION02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "08006B": {
+    "country": "US",
+    "vendor": "ACCEL TECHNOLOGIES INC."
+  },
+  "08006C": {
+    "country": "US",
+    "vendor": "SUNTEK TECHNOLOGY INT'L"
+  },
+  "080078": {
+    "country": "US",
+    "vendor": "ACCELL CORPORATION"
+  },
+  "080079": {
+    "country": "US",
+    "vendor": "THE DROID WORKS"
+  },
+  "08007A": {
+    "country": "",
+    "vendor": "INDATA"
+  },
+  "080085": {
+    "country": "US",
+    "vendor": "ELXSI"
+  },
+  "080089": {
+    "country": "GB",
+    "vendor": "Kinetics"
+  },
+  "08008F": {
+    "country": "US",
+    "vendor": "CHIPCOM CORPORATION"
+  },
+  "202DF8": {
+    "country": "US",
+    "vendor": "Digital Media Cartridge Ltd."
+  },
+  "24FDFA": {
+    "country": "US",
+    "vendor": "Private"
+  },
+  "286FB9": {
+    "country": "US",
+    "vendor": "Nokia Shanghai Bell Co., Ltd."
+  },
+  "2C3F38": {
+    "country": "CN",
+    "vendor": "Cisco Systems, Inc"
+  },
+  "34AA99": {
+    "country": "KR",
+    "vendor": "Nokia"
+  },
+  "3C450B": {
+    "country": "US",
+    "vendor": "Sentry Equipment Corp."
+  },
+  "4048FD": {
+    "country": "JP",
+    "vendor": "IEEE Registration Authority"
+  },
+  "4891F6": {
+    "country": "US",
+    "vendor": "Shenzhen Reach software technology CO.,LTD"
+  },
+  "54C80F": {
+    "country": "US",
+    "vendor": "TP-LINK TECHNOLOGIES CO.,LTD."
+  },
+  "58A87B": {
+    "country": "US",
+    "vendor": "Fitbit, Inc."
+  },
+  "5CE42A": {
+    "country": "TW",
+    "vendor": "Intel Corporate"
+  },
+  "601929": {
+    "country": "MY",
+    "vendor": "VOLTRONIC POWER TECHNOLOGY(SHENZHEN) CORP."
+  },
+  "608334": {
+    "country": "BE",
+    "vendor": "HUAWEI TECHNOLOGIES CO.,LTD"
+  },
+  "741C27": {
+    "country": "US",
+    "vendor": "ITEL MOBILE LIMITED"
+  },
+  "74731D": {
+    "country": "CN",
+    "vendor": "ifm electronic gmbh"
+  },
+  "783D5B": {
+    "country": "FR",
+    "vendor": "TELNET Redes Inteligentes S.A."
+  },
+  "78A683": {
+    "country": "KR",
+    "vendor": "Precidata"
+  },
+  "7C1015": {
+    "country": "US",
+    "vendor": "Brilliant Home Technology, Inc."
+  },
+  "7C4685": {
+    "country": "US",
+    "vendor": "Motorola (Wuhan) Mobility Technologies Communication Co.,"
+  },
+  "802FDE": {
+    "country": "KR",
+    "vendor": "Zurich Instruments AG"
+  },
+  "8C41F4": {
+    "country": "CN",
+    "vendor": "IPmotion GmbH"
+  },
+  "949990": {
+    "country": "US",
+    "vendor": "VTC Telecommunications"
+  },
+  "94B9B4": {
+    "country": "TW",
+    "vendor": "Aptos Technology"
+  },
+  "98FE03": {
+    "country": "CN",
+    "vendor": "Ericsson - North America"
+  },
+  "A08869": {
+    "country": "IT",
+    "vendor": "Intel Corporate"
+  },
+  "A429B7": {
+    "country": "US",
+    "vendor": "bluesky"
+  },
+  "A4A80F": {
+    "country": "US",
+    "vendor": "Shenzhen Coship Electronics Co., Ltd."
+  },
+  "ACD364": {
+    "country": "US",
+    "vendor": "ABB SPA, ABB SACE DIV.02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "B8ECA3": {
+    "country": "CN",
+    "vendor": "Zyxel Communications Corporation"
+  },
+  "BC091B": {
+    "country": "CN",
+    "vendor": "Intel Corporate"
+  },
+  "BCC00F": {
+    "country": "CN",
+    "vendor": "Fiberhome Telecommunication Technologies Co.,LTD"
+  },
+  "C0D60A": {
+    "country": "CN",
+    "vendor": "Texas Instruments"
+  },
+  "C8B1CD": {
+    "country": "CN",
+    "vendor": "Apple, Inc."
+  },
+  "D035E5": {
+    "country": "MY",
+    "vendor": "EM Microelectronic"
+  },
+  "D083D4": {
+    "country": "DK",
+    "vendor": "Xtel Wireless ApS02/03/2026, 17:13 standards-oui.ieee.org"
+  },
+  "D4F057": {
+    "country": "CN",
+    "vendor": "Nintendo Co.,Ltd"
+  },
+  "DC9FA4": {
+    "country": "JP",
+    "vendor": "Nokia Corporation"
+  },
+  "E0589E": {
+    "country": "PL",
+    "vendor": "Laerdal Medical"
+  },
+  "E4E66C": {
+    "country": "US",
+    "vendor": "Tiandy Technologies Co.,LTD"
+  },
+  "F43E66": {
+    "country": "CN",
+    "vendor": "Bee Computing (HK) Limited"
+  }
+}
