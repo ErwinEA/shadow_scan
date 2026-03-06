@@ -1,0 +1,6 @@
+markdown-it-py==4.0.0
+mdurl==0.1.2
+Pygments==2.19.2
+PyPDF2==3.0.1
+rich==14.3.3
+scapy==2.7.0
