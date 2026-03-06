@@ -21,8 +21,12 @@ The tool operates through a **Terminal User Interface** and does not require a w
 
 #### 1. Execution
 
-To start the application, navigate to the project directory and run the main Python file:
+To start the application, navigate to the project directory and install the required modules then run the main Python file:
 
+```bash
+pip install requirements.txt
+
+```
 ```bash
 python main.py
 
